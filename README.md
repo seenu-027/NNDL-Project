@@ -249,10 +249,4 @@ Check Python 3.9–3.11 compatibility
 - Mobile Deployment using **TFLite**  
 - Upgrade to **ResNet / EfficientNet CNNs**  
 
----
 
-## ❤️ Author
-Designed for **NNDL – Deep Learning Project Submission**  
-Fully documented & deployment-ready.
-
----
